@@ -1,0 +1,13 @@
+E:\Unity\NikoLua\Hello\BattleWork_2\bin\Debug\netcoreapp3.1\BattleWork_2.exe
+E:\Unity\NikoLua\Hello\BattleWork_2\bin\Debug\netcoreapp3.1\BattleWork_2.deps.json
+E:\Unity\NikoLua\Hello\BattleWork_2\bin\Debug\netcoreapp3.1\BattleWork_2.runtimeconfig.json
+E:\Unity\NikoLua\Hello\BattleWork_2\bin\Debug\netcoreapp3.1\BattleWork_2.runtimeconfig.dev.json
+E:\Unity\NikoLua\Hello\BattleWork_2\bin\Debug\netcoreapp3.1\BattleWork_2.dll
+E:\Unity\NikoLua\Hello\BattleWork_2\bin\Debug\netcoreapp3.1\BattleWork_2.pdb
+E:\Unity\NikoLua\Hello\BattleWork_2\obj\Debug\netcoreapp3.1\BattleWork_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity\NikoLua\Hello\BattleWork_2\obj\Debug\netcoreapp3.1\BattleWork_2.AssemblyInfoInputs.cache
+E:\Unity\NikoLua\Hello\BattleWork_2\obj\Debug\netcoreapp3.1\BattleWork_2.AssemblyInfo.cs
+E:\Unity\NikoLua\Hello\BattleWork_2\obj\Debug\netcoreapp3.1\BattleWork_2.csproj.CoreCompileInputs.cache
+E:\Unity\NikoLua\Hello\BattleWork_2\obj\Debug\netcoreapp3.1\BattleWork_2.dll
+E:\Unity\NikoLua\Hello\BattleWork_2\obj\Debug\netcoreapp3.1\BattleWork_2.pdb
+E:\Unity\NikoLua\Hello\BattleWork_2\obj\Debug\netcoreapp3.1\BattleWork_2.genruntimeconfig.cache
